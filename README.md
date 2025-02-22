@@ -1,4 +1,4 @@
-## [github source link](https://github.com/browser-use/web-ui.git)
+## [source link](https://github.com/browser-use/web-ui.git)
 <img src="./assets/web-ui.png" alt="Browser Use Web UI" width="full"/>
 
 <br/>
